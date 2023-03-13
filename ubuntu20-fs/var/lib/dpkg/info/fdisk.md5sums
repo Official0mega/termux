@@ -1,0 +1,10 @@
+57a812075a428ddb3d28889905078719  sbin/cfdisk
+7e60d78b3692c63397ee74057578fd84  sbin/fdisk
+199a4af153211b2a21d58418e77bb00a  sbin/sfdisk
+6774c257b207bfb0cc1b44613abe996b  usr/share/bash-completion/completions/cfdisk
+3c171ae9620a1604066753e76fd8d6b2  usr/share/bash-completion/completions/fdisk
+08eb8afe1e4570dc92af0158f2c3f0c8  usr/share/bash-completion/completions/sfdisk
+d5aa93a766c58a08be0158132a7505b9  usr/share/doc/fdisk/copyright
+2a02373ab2360ae0685ac972b2604c5b  usr/share/man/man8/cfdisk.8.gz
+5d455787dde658b653f8bc48495e8a5c  usr/share/man/man8/fdisk.8.gz
+ab350c1ac46b8f0da0de199c90d90543  usr/share/man/man8/sfdisk.8.gz
